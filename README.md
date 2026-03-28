@@ -2,10 +2,10 @@
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-**Name:** Maitri Srivastava   
-**Registration Number:** 25BHI10037 
-**Course:** CSE0001 – Digital Literacy  
-**University:** VIT Bhopal University  
+Name: Maitri Srivastava  
+Registration Number: 25BHI10037  
+Course: CSE0001 – Digital Literacy  
+University: VIT Bhopal University  
 
 ---
 
