@@ -3,7 +3,7 @@
 
 ## 👤 Student Details
 **Name:** Maitri Srivastava  
-**Registration Number:** [Your Reg No.]  
+**Registration Number:** 25BHI10037
 **Course:** CSE0001 – Digital Literacy  
 **University:** VIT Bhopal University  
 
