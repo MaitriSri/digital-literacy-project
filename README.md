@@ -55,7 +55,11 @@ Set up and updated professional profiles on platforms like GitHub, LinkedIn, and
 ## 🔗 Useful Links
 
 ### 📊 Google Form
-[Paste Your Google Form Link Here]
+https://forms.gle/m8D71snDLREAqt1XA
+
+### 📊 Google Sheet
+https://docs.google.com/spreadsheets/d/1igf1uHwsmUHazDnqOmPiKiGuiGyD93m60j8RDLnF02M/edit?resourcekey=&gid=1149638756#gid=1149638756
+
 
 ---
 
@@ -68,11 +72,4 @@ Set up and updated professional profiles on platforms like GitHub, LinkedIn, and
 
 ## 📁 Repository Structure
 
-#FORM
 
-https://forms.gle/m8D71snDLREAqt1XA
-
-
-#Sheet
-
-https://docs.google.com/spreadsheets/d/1igf1uHwsmUHazDnqOmPiKiGuiGyD93m60j8RDLnF02M/edit?resourcekey=&gid=1149638756#gid=1149638756
