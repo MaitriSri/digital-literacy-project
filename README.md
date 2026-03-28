@@ -1,7 +1,3 @@
-# digital-literacy-project
-
-
-
 
 # 📘 Digital Literacy Project
 
@@ -69,6 +65,6 @@ https://docs.google.com/spreadsheets/d/1igf1uHwsmUHazDnqOmPiKiGuiGyD93m60j8RDLnF
 - Kaggle / Others: https://www.kaggle.com/maitrisrivastava
 ---
 
-## 📁 Repository Structure
+
 
 
