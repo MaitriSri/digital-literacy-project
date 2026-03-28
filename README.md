@@ -6,7 +6,7 @@
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-**Name:** Lakshya Dixit  
+**Name:** Maitri Srivastava  
 **Registration Number:** [Your Reg No.]  
 **Course:** CSE0001 – Digital Literacy  
 **University:** VIT Bhopal University  
