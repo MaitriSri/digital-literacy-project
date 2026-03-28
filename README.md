@@ -62,7 +62,7 @@ https://docs.google.com/spreadsheets/d/1igf1uHwsmUHazDnqOmPiKiGuiGyD93m60j8RDLnF
 ### 🌐 Professional Profiles
 - GitHub: https://github.com/MaitriSri
 - LinkedIn: https://www.linkedin.com/in/maitri-srivastava-1194ba3ba/
-- Kaggle / Others: https://www.kaggle.com/maitrisrivastava
+- Kaggle: https://www.kaggle.com/maitrisrivastava
 ---
 
 
